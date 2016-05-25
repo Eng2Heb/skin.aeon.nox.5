@@ -54,7 +54,7 @@ msgstr "Επόμενο επεισόδιο"
 # Kodi
 msgctxt "#31011"
 msgid "Latest episode"
-msgstr "Νεώτερο επεισόδιο"
+msgstr "Νεότερο επεισόδιο"
 
 # Kodi
 msgctxt "#31014"
@@ -74,12 +74,12 @@ msgstr "Δίκτυο"
 # Kodi
 msgctxt "#31022"
 msgid "Set multi-image background"
-msgstr "Υπόβαθρο πολλαπλών εικόνων"
+msgstr "Φόντο πολλαπλών εικόνων"
 
 # Kodi
 msgctxt "#31023"
 msgid "Set single image background"
-msgstr "Μία εικόνα για υπόβαθρο"
+msgstr "Μία εικόνα για φόντο"
 
 # Kodi
 msgctxt "#31025"
@@ -204,7 +204,7 @@ msgstr ""
 # Plex
 msgctxt "#31133"
 msgid "Subtitles"
-msgstr ""
+msgstr "Υπότιτλοι"
 
 # Plex
 msgctxt "#31134"
@@ -214,27 +214,27 @@ msgstr ""
 # Plex
 msgctxt "#31138"
 msgid "Watched"
-msgstr ""
+msgstr "Προβληθέν"
 
 # Plex
 msgctxt "#31139"
 msgid "Unwatched"
-msgstr ""
+msgstr "Μη Προβληθέν"
 
 # Aeon Nox for Plex
 msgctxt "#31157"
 msgid "Submenu always visible"
-msgstr ""
+msgstr "Υπομενού να είναι πάντα ορατό"
 
 # Plex
 msgctxt "#31225"
 msgid "Rating"
-msgstr ""
+msgstr "Αξιολόγηση"
 
 # Plex
 msgctxt "#31226"
 msgid "Change"
-msgstr ""
+msgstr "Αλλαγή"
 
 # Plex
 msgctxt "#31227"
@@ -244,7 +244,7 @@ msgstr ""
 # Plex
 msgctxt "#31228"
 msgid "Lyrics"
-msgstr ""
+msgstr "Στίχοι"
 
 # Kodi
 msgctxt "#31320"
@@ -279,27 +279,27 @@ msgstr "[B]ΡΥΘΜΙΣΕΙΣ ΥΠΗΡΕΣΙΩΝ[/B][CR][CR]Χειρισμός �
 # Aeon Nox for Plex
 msgctxt "#31421"
 msgid "Select your PLEX user Profile[CR]to login and continue"
-msgstr ""
+msgstr "Επιλογή του PLEX προφίλ σου[CR] για είσοδο και συνέχεια "
 
 # Plex
 msgctxt "#31602"
 msgid "Network"
-msgstr ""
+msgstr "Δίκτυο"
 
 # Plex
 msgctxt "#31610"
 msgid "Playback"
-msgstr ""
+msgstr "Αναπαραγωγή"
 
 # Plex
 msgctxt "#31656"
 msgid "Backgrounds"
-msgstr ""
+msgstr "Φόντα"
 
 # Plex
 msgctxt "#31704"
 msgid "Photo"
-msgstr ""
+msgstr "Φωτογραφία"
 
 # Kodi
 msgctxt "#31913"
@@ -414,17 +414,17 @@ msgstr "Επιλογή των ενδείξεων που θα εμφανίζον�
 # Plex
 msgctxt "#31952"
 msgid "Channel Directory"
-msgstr ""
+msgstr "Φάκελος Καναλιών"
 
 # Plex
 msgctxt "#31955"
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
 # Plex
 msgctxt "#31970"
 msgid "Channels"
-msgstr ""
+msgstr "Κανάλια"
 
 # Plex
 msgctxt "#32003"
@@ -439,7 +439,7 @@ msgstr ""
 # Plex
 msgctxt "#32103"
 msgid "There is no description available for this media"
-msgstr ""
+msgstr "Δεν υπάρχει περιγραφή διαθέσιμη για αυτό το πολυμέσο"
 
 # Plex
 msgctxt "#32104"
@@ -454,7 +454,7 @@ msgstr ""
 # Plex
 msgctxt "#41000"
 msgid "System Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Συστήματος"
 
 # Plex
 msgctxt "#41001"
@@ -494,17 +494,17 @@ msgstr ""
 # Plex
 msgctxt "#41008"
 msgid "Extras"
-msgstr ""
+msgstr "Επιπρόσθετα"
 
 # Plex
 msgctxt "#41009"
 msgid "Switch User"
-msgstr ""
+msgstr "Αλλαγή χρήστη"
 
 # Aeon Nox for Plex
 msgctxt "#42001"
 msgid "Set Section Background"
-msgstr ""
+msgstr "Ορισμός φόντου ενότητας"
 
 # Aeon Nox for Plex
 msgctxt "#42002"
@@ -514,17 +514,17 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42003"
 msgid "The system will shut down at"
-msgstr ""
+msgstr "Απενεργοποίηση συστήματος σε"
 
 # Aeon Nox for Plex
 msgctxt "#42004"
 msgid "Sign In"
-msgstr ""
+msgstr "Συνδεθείτε"
 
 # Aeon Nox for Plex
 msgctxt "#42012"
 msgid "Set Background"
-msgstr ""
+msgstr "Ορισμός Φόντου"
 
 # Aeon Nox for Plex
 msgctxt "#42013"
@@ -549,17 +549,17 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42018"
 msgid "Plex Log In"
-msgstr ""
+msgstr "Είσοδος PLEX"
 
 # Aeon Nox for Plex
 msgctxt "#42019"
 msgid "User ID"
-msgstr ""
+msgstr "ID χρήστη"
 
 # Aeon Nox for Plex
 msgctxt "#42021"
 msgid "Shared Content"
-msgstr ""
+msgstr "Κοινόχρηστα περιεχόμενα"
 
 # Aeon Nox for Plex
 msgctxt "#42022"
@@ -574,32 +574,32 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42029"
 msgid "Rate"
-msgstr ""
+msgstr "Αξιολόγηση"
 
 # Aeon Nox for Plex
 msgctxt "#42030"
 msgid "New Search"
-msgstr ""
+msgstr "Νέα αναζήτηση"
 
 # Aeon Nox for Plex
 msgctxt "#42033"
 msgid "Enter PIN"
-msgstr ""
+msgstr "Εισαγωγή PIN"
 
 # Aeon Nox for Plex
 msgctxt "#42034"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Εμφάνισης"
 
 # Aeon Nox for Plex
 msgctxt "#42035"
 msgid "Playback Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Αναπαραγωγής"
 
 # Aeon Nox for Plex
 msgctxt "#42036"
 msgid "Network Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Δικτύου"
 
 # Aeon Nox for Plex
 msgctxt "#42037"
@@ -614,12 +614,12 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42039"
 msgid "Disable Search Icon"
-msgstr ""
+msgstr "Απενεργοποίηση εικονιδίου Αναζήτησης"
 
 # Aeon Nox for Plex
 msgctxt "#42040"
 msgid "Enable Plex Server Info"
-msgstr ""
+msgstr "Ενεργοποίηση Πληροφοριών του PLEX Server"
 
 # Aeon Nox for Plex
 msgctxt "#42041"
@@ -659,7 +659,7 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42048"
 msgid "Image:"
-msgstr ""
+msgstr "Εικόνα"
 
 # Aeon Nox for Plex
 msgctxt "#42049"
@@ -759,12 +759,12 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42072"
 msgid "Set a single image as the background for the Home menu."
-msgstr ""
+msgstr "Επιλογή μίας εικόνας ως φόντο του Κεντρικού μενού"
 
 # Aeon Nox for Plex
 msgctxt "#42073"
 msgid "Choose the background image."
-msgstr ""
+msgstr "Επιλογή εικόνας Φόντου"
 
 # Aeon Nox for Plex
 msgctxt "#42074"
@@ -794,17 +794,17 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42079"
 msgid "Lower"
-msgstr ""
+msgstr "Χαμηλότερα"
 
 # Aeon Nox for Plex
 msgctxt "#42080"
 msgid "Middle"
-msgstr ""
+msgstr "Μέση"
 
 # Aeon Nox for Plex
 msgctxt "#42081"
 msgid "Watch Later"
-msgstr ""
+msgstr "Προβολή Αργότερα"
 
 # Aeon Nox for Plex
 msgctxt "#42082"
@@ -819,12 +819,12 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42084"
 msgid "Icon Style"
-msgstr ""
+msgstr "Στυλ Εικονιδίου"
 
 # Aeon Nox for Plex
 msgctxt "#42085"
 msgid "Circles"
-msgstr ""
+msgstr "Κύκλοι"
 
 # Aeon Nox for Plex
 msgctxt "#42086"
@@ -834,7 +834,7 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42087"
 msgid "Position"
-msgstr ""
+msgstr "Θέση"
 
 # Aeon Nox for Plex
 msgctxt "#42088"
